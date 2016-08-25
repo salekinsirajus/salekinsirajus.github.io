@@ -1,0 +1,39 @@
+#logoText {
+	width: 50%;
+	height: 35%;
+	opacity: 0.99;	
+	color: whitesmoke;
+	font: 5.5em bold;
+	font-family: Palatino Linotype;
+
+
+	/*aligning it to the left*/
+	display: inline;
+	float: left;
+}
+
+#topRight {
+	width: 50%;
+	height: 35%;
+	display: inline;
+	float: right;
+
+}
+
+#holiPoster {
+	height: 100%;
+	background-image: url("holi16.jpg");
+	background-size: cover;
+}
+
+#about {
+	display: inline;
+	float: right;
+
+	height: 40%;
+	width: 50%;
+
+	background-color: white;
+	font: 1.5em;
+	font-family: Palatino Linotype;
+}
